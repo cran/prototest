@@ -1,4 +1,4 @@
-cbf1ab736429027f2e93a63749b02f61 *DESCRIPTION
+568d94f4cdbb7e3c46ee525b5ca4493a *DESCRIPTION
 881be658ecb25db3735a4e54ce748582 *NAMESPACE
 71dbbdd10a16bba692ca201a198467e3 *R/RcppExports.R
 3c9c6b66eaee7cc21f87d707fb93e9b3 *R/compute.F.statistic.R
@@ -40,7 +40,7 @@ de9903c9b10d0c38d86bb221fde52e8f *R/truncation.region.function.R
 653d5e6e32e66dc03e9efcde533e1255 *R/update.sigma.R
 9dc3ac18c246e5916ef25889c8a1a345 *R/update.theta.R
 7a13ffcf36d6fe6aa22afe0a8b8102ca *R/update.theta.approx.R
-e249ddac9c0f14c2ea7ac5e43238c5c7 *build/partial.rdb
+9e19f0981e5305aca82accda231925f2 *build/partial.rdb
 69ec24a5936a0f33c309d0a993de6e3a *man/print.prototest.Rd
 c617afea45f562c0290c008a78cf3327 *man/prototest-package.Rd
 8caf1e5e08650fa39b5bd71054b3ad79 *man/prototest.multivariate.Rd
