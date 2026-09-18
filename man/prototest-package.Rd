@@ -24,11 +24,11 @@ Stephen Reid
 Maintainer: Stephen Reid <sreid@stanford.edu>
 }
 \references{
-Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{http://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
-Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{http://arxiv.org/abs/1511.07839}\cr
-Lee, J.D., Sun, D.L., Sun, Y. and Taylor, J.E. (2013) \emph{Exact post-selection inference, with application to the lasso}. \url{http://arxiv.org/pdf/1311.6238v6.pdf}. \emph{Annals of Statistics (to appear)}\cr
-Lee, J.D. and Taylor, J.E. (2014) \emph{Exact Post Model Selection Inference for Marginal Screening}. \url{http://arxiv.org/pdf/1402.5596v2.pdf}\cr
-Fithian, W., Sun, D.L. and Taylor, J.E. (2015) \emph{Optimal Inference After Model Selection}. \url{http://arxiv.org/pdf/1410.2597v2.pdf}
+Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{https://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
+Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{https://arxiv.org/abs/1511.07839}\cr
+Lee, J.D., Sun, D.L., Sun, Y. and Taylor, J.E. (2013) \emph{Exact post-selection inference, with application to the lasso}. \url{https://arxiv.org/pdf/1311.6238v6.pdf}. \emph{Annals of Statistics (to appear)}\cr
+Lee, J.D. and Taylor, J.E. (2014) \emph{Exact Post Model Selection Inference for Marginal Screening}. \url{https://arxiv.org/pdf/1402.5596v2.pdf}\cr
+Fithian, W., Sun, D.L. and Taylor, J.E. (2015) \emph{Optimal Inference After Model Selection}. \url{https://arxiv.org/pdf/1410.2597v2.pdf}
 }
 \examples{
 require (prototest)

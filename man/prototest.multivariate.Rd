@@ -75,8 +75,8 @@ A list with the following four components:
 \item{y.hr}{Matrix with hit-and-run replications of the response. If sampled selective test was not performed, this will be \code{NULL}.}
 }
 \references{
-Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{http://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
-Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{http://arxiv.org/abs/1511.07839}.
+Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{https://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
+Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{https://arxiv.org/abs/1511.07839}.
 }
 \author{
 Stephen Reid

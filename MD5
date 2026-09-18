@@ -1,6 +1,6 @@
-568d94f4cdbb7e3c46ee525b5ca4493a *DESCRIPTION
+3c23bb77f4080f3e561287f43aca5ca9 *DESCRIPTION
 881be658ecb25db3735a4e54ce748582 *NAMESPACE
-71dbbdd10a16bba692ca201a198467e3 *R/RcppExports.R
+4012a8aa232e1743232e0f8ea478f906 *R/RcppExports.R
 3c9c6b66eaee7cc21f87d707fb93e9b3 *R/compute.F.statistic.R
 ea3b4e0e4f51cde8accf4f4940d114b1 *R/compute.QRS.vectors.R
 bce75042a4312d7180d9665332c66ae6 *R/compute.approx.lr.R
@@ -40,13 +40,13 @@ de9903c9b10d0c38d86bb221fde52e8f *R/truncation.region.function.R
 653d5e6e32e66dc03e9efcde533e1255 *R/update.sigma.R
 9dc3ac18c246e5916ef25889c8a1a345 *R/update.theta.R
 7a13ffcf36d6fe6aa22afe0a8b8102ca *R/update.theta.approx.R
-9e19f0981e5305aca82accda231925f2 *build/partial.rdb
+21c9401b8c07f38d762ade4612fc4ffe *build/partial.rdb
 69ec24a5936a0f33c309d0a993de6e3a *man/print.prototest.Rd
-c617afea45f562c0290c008a78cf3327 *man/prototest-package.Rd
-8caf1e5e08650fa39b5bd71054b3ad79 *man/prototest.multivariate.Rd
-bb4ec43fe79199a58fdb03eea2140c93 *man/prototest.univariate.Rd
+8c04c360c726a1a2afb8a2a969d8e78d *man/prototest-package.Rd
+e09b950be639fab73d0f8e70ec7a8cb7 *man/prototest.multivariate.Rd
+186f3789c14c5081ef2e31222cc835df *man/prototest.univariate.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
-9438d7abeca83d378626d31ff9bcf87a *src/RcppExports.cpp
+de349ea31a8af7d619645fac56477c87 *src/RcppExports.cpp
 7f72e44b02ee601100b3282f5d297f27 *src/hit_and_run.cpp
 5042f00c6c5bbb671973688de72f166e *src/multivariate_alr.cpp
 adf0284a09db4c78c32177d04f5cd821 *src/multivariate_elr.cpp

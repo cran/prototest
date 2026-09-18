@@ -1,17 +1,22 @@
 Package: prototest
 Type: Package
 Title: Inference on Prototypes from Clusters of Features
-Version: 1.2
-Date: 2019-02-02
-Author: Stephen Reid
-Maintainer: Stephen Reid <sreid1652@gmail.com>
+Version: 1.3
+Date: 2026-09-17
+Authors@R: person(given = "Stephen",
+                      family = "Reid",
+                      role = c("aut", "cre"),
+                      email = "sreid1652@gmail.com")
 Depends: intervals, MASS, glmnet
 Description: Procedures for testing for group-wide signal in clusters of variables. Tests can be performed for single groups in isolation (univariate) or multiple groups together (multivariate). Specific tests include the exact and approximate (un)selective likelihood ratio tests described in Reid et al (2015), the selective F test and marginal screening prototype test of Reid and Tibshirani (2015). User may pre-specify columns to be included in prototype formation, or allow the function to select them itself. A mixture of these two is also possible. Any variable selection is accounted for using the selective inference framework. Options for non-sampling and hit-and-run null reference distributions.
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.1)
 LinkingTo: Rcpp, RcppArmadillo
-URL: http://arxiv.org/abs/1511.07839
+URL: https://arxiv.org/abs/1511.07839
+Config/roxygen2/version: 8.1.0
 NeedsCompilation: yes
-Packaged: 2019-02-02 21:24:48 UTC; stephen
+Packaged: 2026-09-18 02:53:19 UTC; stephen
+Author: Stephen Reid [aut, cre]
+Maintainer: Stephen Reid <sreid1652@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-02-03 11:00:03 UTC
+Date/Publication: 2026-09-18 06:00:02 UTC

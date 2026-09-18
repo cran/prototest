@@ -18,7 +18,7 @@ hr.burn.in = 5000, verbose = FALSE, tol = 10^-8)
 input matrix of dimension \emph{n}-by-\emph{p}, where \emph{p} is the number of predictors in a single predetermined group of predictors. Will be mean centered and standardised before tests are performed. 
 }
   \item{y}{
-response variable. Vector of length emph{n}, assumed to be quantitative.
+response variable. Vector of length \emph{n}, assumed to be quantitative.
 }
   \item{type}{
 type of test to be performed. Can only select one at a time. Options include the exact and approximate likelihood ratio prototype tests of Reid et al (2015) (ELR, ALR), the F test and the marginal screening prototype test of Reid and Tibshirani (2015) (MS). Default is ELR.
@@ -69,8 +69,8 @@ A list with the following four components:
 \item{y.hr}{Matrix with hit-and-run replications of the response. If sampled selective test was not performed, this will be \code{NULL}.}
 }
 \references{
-Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{http://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
-Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{http://arxiv.org/abs/1511.07839}.
+Reid, S. and Tibshirani, R. (2015) \emph{Sparse regression and marginal testing using cluster prototypes}. \url{https://arxiv.org/pdf/1503.00334v2.pdf}. \emph{Biostatistics \doi{10.1093/biostatistics/kxv049}}\cr
+Reid, S., Taylor, J. and Tibshirani, R. (2015) \emph{A general framework for estimation and inference from clusters of features}. Available online: \url{https://arxiv.org/abs/1511.07839}.
 }
 \author{
 Stephen Reid
